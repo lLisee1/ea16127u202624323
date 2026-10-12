@@ -111,5 +111,7 @@ const useCollectionStore = defineStore('collection', ()=>{
             errors.value.push(error);
         });
     }
-})
+});
+
+export default useCollectionStore
 

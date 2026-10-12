@@ -22,5 +22,12 @@
     "intro": "Made with",
     "use": "using",
     "author": "by {brand} Developer Team"
+  },
+  "collection": {
+    "new-title": "Create New Category",
+    "edit-title": "Edit Category",
+    "title": "Title",
+    "save": "Save",
+    "cancel": "Cancel"
   }
 }
