@@ -4,5 +4,8 @@
     {"id": 2, "title":"", "country":"", "state":"", "collectionType":"", "size":""}
 
   ],
-
+  "historical-objects": [
+    {"id": 1, "name": "", "coinId": "", "collectionTypeId": "", "yearProduction": 1900,
+      "coinCollectionId": "", "summary": "", "legends": "", "prince": "", "registeredAt": ""}
+  ]
 }
