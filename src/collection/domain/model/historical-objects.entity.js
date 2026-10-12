@@ -1,7 +1,7 @@
 export class HistoricalObjects {
     constructor({id=null,name="", coinId=null, collectionTypeId= "",
                     yearProduction=null, coinCollectionId=null, summary="",
-                    legends= "", prince= "", registeredAt=""}) {
+                    legends= "", prince= "", registeredAt=""}={}) {
         this.id = id;
         this.name = name;
         this.coinCollectionId = coinCollectionId;

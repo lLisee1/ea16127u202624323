@@ -11,7 +11,8 @@
   "option": {
     "home": "Home",
     "new": "New Historical Object item",
-    "collections": "Collections"
+    "collections": "Collections",
+    "historical-collections": "Historical Collections"
   },
   "toolbar": {
     "title": "American Numismatic Association",

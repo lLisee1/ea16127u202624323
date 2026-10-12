@@ -25,6 +25,9 @@ export class CollectionApi extends BaseApi {
         return this.#collectionEndpoint.create(resource);
     }
 
+    updateCollection(resource){
+        return this.#collectionEndpoint.update(resource);
+    }
     deleteCollection(id){
         return this.#collectionEndpoint.delete(id);
     }
@@ -42,5 +45,8 @@ export class CollectionApi extends BaseApi {
 
     deleteHistoricalObjects(id){
         return this.#historicalObjectsEndpoint.delete(id);
+    }
+    updateHistoricalObject(resource){
+        return this.#historicalObjectsEndpoint.update(resource);
     }
 }
