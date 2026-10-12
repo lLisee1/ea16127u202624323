@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "HOME",
+    "content": "Museum Edward C Rochette"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path {unavailable-route} is not available.",
+    "go-home": "Go Home"
+  },
+  "option": {
+    "home": "Home",
+    "new": "New Historical Object item",
+    "collections": "Collections"
+  },
+  "toolbar": {
+    "title": "American Numismatic Association",
+    "content": "The ANA helps people discover and \nexplore the world of money through its vast array of educational programs including its museum, library, \nconventions, seminars, publications and outreach programs.",
+  },
+  "authoring-phrase": {
+    "intro": "Made with",
+    "use": "using",
+    "author": "by {brand} Developer Team"
+  }
+}

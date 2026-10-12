@@ -5,7 +5,7 @@
 
   ],
   "historical-objects": [
-    {"id": 1, "name": "", "coinId": "", "collectionTypeId": "", "yearProduction": 1900,
-      "coinCollectionId": "", "summary": "", "legends": "", "prince": "", "registeredAt": ""}
+    {"id": 1, "name": "", "coinId": "", "collectionTypeId": 1, "yearProduction": 1900,
+      "coinCollectionId": 1, "summary": "", "legends": "", "prince": "", "registeredAt": ""}
   ]
 }
