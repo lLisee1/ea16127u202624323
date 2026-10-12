@@ -1,10 +1,8 @@
 {
   "Collection": [
-    "id": 1,
-    "title":"",
-    "country":"",
-    "state":"",
-    "collectionType":"",
-    "size":""
-  ]
+    {"id": 1, "title":"", "country":"", "state":"", "collectionType":"", "size":""},
+    {"id": 2, "title":"", "country":"", "state":"", "collectionType":"", "size":""}
+
+  ],
+
 }
