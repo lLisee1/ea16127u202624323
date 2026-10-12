@@ -1,6 +1,6 @@
 export class Collection {
     constructor({id= null, title="", country="",
-                    state="", collectionType="", size=""})
+                    state="", collectionType="", size=""}={})
     {
         this.id = id;
         this.title = title;
